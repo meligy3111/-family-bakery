@@ -39,6 +39,7 @@ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 .timenu{
 background-color: white;
 height:50px ;
+z-index: 1000;
 
 }
 
